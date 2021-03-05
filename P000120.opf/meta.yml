@@ -1,12 +1,14 @@
-ebook_metadata:
+id: P000120
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །མི་ཤེས་མུན་པ་མཐུག་པོ་སེལ་བའི་ལམ་རིམ་གསལ་བའི་སྒྲོན་མེ་བཞུགས་སོ། །
   authors:
   - མཛད་པ་པོ། ཞབས་དཀར་ཚོགས་དྲུག་རང་གྲོལ།
-  sku: SHE-SHAP-17
   layers:
   - book_title
   - author
   - quotation
+  id: SHE-SHAP-17
 web_metadata:
   title:
     en: The Lamp That Illuminates the Graded Path for Dispelling the Darkness of Ignorance
